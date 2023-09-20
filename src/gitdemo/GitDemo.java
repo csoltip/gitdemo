@@ -15,7 +15,7 @@ public class GitDemo {
 
 
     private void metodus() {
-        System.out.println("statikus metódus");
+        System.out.println("statikus metódus!!!");
     }
     
 }
